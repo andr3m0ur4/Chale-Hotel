@@ -1,2 +1,11 @@
 # Chale-Hotel
-Site desenvolvido utilizando layout líquido, permitindo que a página se adapte independente do tamanho do ecrã.
+
+Website developed using liquid layout, allowing the page to adapt regardless of the screen size.
+
+## Installation
+
+Clone the project on your PC.
+
+## Usage
+
+So, open the root directory in your Browser.
